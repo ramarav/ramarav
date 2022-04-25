@@ -3,7 +3,7 @@
 - 🌱 Currently learning Kivy
 - 👯 I’m looking to collaborate on Machine Learning and AI
 - 💬 Ask me about Python, IoT, Research, Tensorflow etc..
-- 📫 How to reach me: ramarav@gmail.com and @mekalaramarav
+- 📫 How to reach me: ramarav@gmail.com
 
 <!--
 **ramarav/ramarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
