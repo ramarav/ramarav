@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Cryptography
+- 🔭 I’m currently working at AMD
 - 🌱 Currently learning Kivy
 - 👯 I’m looking to collaborate on Machine Learning and AI
 - 💬 Ask me about Python, IoT, Research, Tensorflow etc..
